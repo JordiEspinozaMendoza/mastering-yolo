@@ -61,5 +61,5 @@ write_to_file("datasets/images/train", "datasets/labels/train", X_train)
 write_to_file("datasets/images/valid", "datasets/labels/valid", X_val)
 write_to_file("datasets/images/test", "datasets/labels/test", X_test)
 
-with open("number-plate.yaml", "w") as f:
-    yaml.dump(data, f)
+# with open("number-plate.yaml", "w") as f:
+#     yaml.dump(data, f)

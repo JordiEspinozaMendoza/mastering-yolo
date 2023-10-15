@@ -3,6 +3,10 @@
     {
       "id": 0,
       "name": "Car plate"
+    },
+    {
+      "id": 1,
+      "name": "car"
     }
   ],
   "info": {
